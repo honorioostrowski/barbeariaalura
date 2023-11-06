@@ -16,7 +16,7 @@ p {
     text-align: center;
 }
 em strong {
-    text-align: center;
+color: deeppink;
 }
 #missao {
     font-size: 20px;
@@ -29,7 +29,7 @@ em strong {
     padding: 20px;
 }
 em strong {
-    color:rgb(181, 24, 24)
+    color:rgb(252, 5, 178)
 }
 h2 {
     text-align:center ;
